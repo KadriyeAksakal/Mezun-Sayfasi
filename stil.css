@@ -1,0 +1,97 @@
+div.AnaDiv
+{
+     width: 1000px;
+     min-height: 100%;
+     background-color: lightblue;
+     position:absolute;
+     left: 50%;
+     margin-left: -500px;
+     border-radius: 10px;
+     box-shadow: 0 0 20px 0 #666;
+}
+
+textarea 
+{
+  resize: none;
+}
+
+a
+{
+    text-decoration: none;
+    color: #000;
+}
+
+a:hover
+{
+    color: #ffd800;
+    font-size: 16px;
+}
+
+body
+{
+    background-color:  #4fc3f7;
+}
+
+#giris
+{
+    float: right;
+    width: 400px;
+    height: 100px;
+    border-top-right-radius: 10px;
+    
+}
+
+.tablo
+{
+    background-color: #fff;
+}
+
+.UstMenu
+{
+    width: 100%;
+    height: 100px;
+    background-color: #4fc3f7;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.SolMenu
+{
+    width: 150px;
+    height: 400px;
+    background-color: #4fc3f7;
+    border-bottom-right-radius: 10px;
+    float: left;
+    position: absolute;
+    font-size: 18px;
+	margin-top: 50px;
+}
+
+#foto
+{
+    height: 100px;
+    width: 100px;
+    float: left;
+}
+
+.icerik
+{
+    width: 850px;
+    float: left;
+    margin-left: 150px;
+}
+
+.harita{
+	width:490px; 
+	height:380px; 
+	background-color:black;
+	background-image:url(http://www.kgm.gov.tr/SiteCollectionImages/KGMimages/Haritalar/turistik.jpg); 
+	background-position:-3315px -690px;	
+	border-radius: 15px;
+	margin-bottom: 10px;
+	margin-top:60px;
+	margin-left:auto;
+	margin-right:auto; 
+	border: 1px solid black;
+	
+}
